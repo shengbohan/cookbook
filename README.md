@@ -5,3 +5,4 @@
 ## 菜谱目录
 
 1. [鸡蛋炒馒头](recipes/jidan-chaomantou.md)
+2. [番茄鸡蛋汤](recipes/fanqie-jidan-tang.md)
